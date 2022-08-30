@@ -1,5 +1,5 @@
 # Multiplicadordenumerospares
-Multiplicador de números pares até dez
+Multiplicador de números pares 
 
 
 #include <stdio.h>
